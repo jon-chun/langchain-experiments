@@ -17,8 +17,8 @@ Last Run: (same)
 
 ---
 
-YouTube title: "Steve Jobs' 2005 Stanford Commencement Address"
-URL: https://www.youtube.com/watch?v=UF8uR6Z6KLc (15:04) 2008)
+* YouTube title: "Steve Jobs' 2005 Stanford Commencement Address"
+* URL: https://www.youtube.com/watch?v=UF8uR6Z6KLc (15:04) 2008)
 
 SAMPLE OUTPUT:
 
