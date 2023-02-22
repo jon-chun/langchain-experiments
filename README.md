@@ -4,6 +4,8 @@ This repo contains Python code and Jupyter Colab notebooks to test various Langc
 
 ## Experiment #1: Download YouTube audio, transcript, vectorize and query via similiarity search
 
+This Langchain pipeline enables anyone to ask questions based upon content in a YouTube video. Users ask questions and answers are supplied based upon the semantically similiar content in the YouTube transcript. In addition, one or more timestamps are provided so the user can skip to parts of the video that contextualize the answers provided.
+
 STEPS:
 
 * Download YouTube audio as mp3 file
